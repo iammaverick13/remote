@@ -1,0 +1,2 @@
+# remote
+latihan menggunakan remote
